@@ -1,3 +1,4 @@
+<h4> As Tasks são salvas no AsyncStorage </h4>
 //botão add task
 <h4>npm i -s react-native-action-button or yarn add react-native-action-button</h4>
 //funcionalidade pra excluir task
